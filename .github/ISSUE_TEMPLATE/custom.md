@@ -1,4 +1,10 @@
 ---
+name: Custom issue template
+about: Describe this issue template's purpose here.
+
+---
+
+---
 name: Issue Template
 about: Issue template for to standardize repo issues
 
